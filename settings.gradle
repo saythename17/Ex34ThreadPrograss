@@ -1,0 +1,2 @@
+rootProject.name='Ex34ThreadPrograss'
+include ':app'
